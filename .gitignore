@@ -1,35 +1,8 @@
-# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook
 .ipynb_checkpoints/
-
-# Virtual Environment
-venv/
-env/
-.venv/
-
-# Environment Variables
 .env
-
-# VS Code
-.vscode/
-
-# PyCharm
-.idea/
-
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
-
-# Python build files
-build/
-dist/
-*.egg-info/
-
-# Logs
+*.pyc
 *.log
+venv/
+.idea/
+.vscode/
