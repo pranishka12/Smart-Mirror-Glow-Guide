@@ -1,0 +1,6 @@
+opencv-python
+numpy
+tensorflow
+matplotlib
+python-telegram-bot
+firebase-admin
