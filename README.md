@@ -5,6 +5,7 @@
 Smart Mirror Glow Guide is an AI and IoT-based facial skin analysis system that performs real-time skin condition detection and provides personalized skincare recommendations. The system uses Raspberry Pi 4, OpenCV, and a lightweight CNN model to detect common skin conditions such as acne, dark spots, dark circles, and moles. After analysis, recommendations are automatically delivered to the user's Telegram account.
 
 ---
+<img width="484" height="205" alt="image" src="https://github.com/user-attachments/assets/b6e91cc6-b578-4b82-b90f-9f1ee1aaefc2" />
 
 ## Features
 
